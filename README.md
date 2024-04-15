@@ -1,7 +1,7 @@
-### <div align="center">Hi, I am Full Stack / Blockchain Developer</div>  
+# <div align="center">Hi, I am Full Stack / Blockchain Developer</div>  
   
 
-# Hello, World! 👋
+## Hello, World! 👋
 
 Welcome to my GitHub repository! As a full stack / Blockchain developer, I believe in crafting innovative solutions and pushing the boundaries of what's possible in the digital world. This repository is a collection of my projects and contributions that showcase my skills and passion for building robust and scalable applications.  
   
