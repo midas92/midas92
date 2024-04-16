@@ -60,6 +60,6 @@ Welcome to my GitHub repository! As a full stack / Blockchain developer, I belie
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midas92&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midas92&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=javascript,html,scss" align="center" /></div>
 
 <br />
